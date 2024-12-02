@@ -1,0 +1,60 @@
+
+header{background-image:url(https://images7.alphacoders.com/443/443952.jpg ) ;
+width:1500px; height:200px;}
+
+h1{text-transform: uppercase;
+font-family:'trajan pro regular', serif ;}
+
+nav a:hover{color:gray;
+    font-weight: bold;}
+    nav a{ color: black;
+    font-weight: 450;
+text-decoration: underline;}
+    #a1{margin-left:200px;}
+    #a2{margin-top:400px;
+    margin-left: 400px;}
+
+    #a3{margin-left:400px;
+    margin-top: 500px;}
+
+    #a4{margin-top:500px;
+        margin-left:900px;}
+
+    #h1{ margin-top:-500px;
+    float: right;
+margin-right: 500px;}
+
+/*Christmas carol*/
+#i1{ float:left;
+margin-bottom: -100px;}
+#h1{margin-top:-350px;
+margin-left: 20px;}
+#by1{margin-top:-350px;
+float:right;
+margin-left:400px;
+margin-bottom: -20px;}
+#p1{float: right;
+    margin-top: -300px;
+margin-left: 500px;}
+
+/*the great gatsby*/
+#h2{margin-top:-50px;
+margin-left:200px;}
+#by2{margin-bottom:50px;}
+#p2{margin-top:-500px;
+margin-left: 500px;}
+
+/*hobbit*/
+#h3{margin-top:-950px ;
+    margin-left:700px;
+float:right;}
+#by3{margin-top:-900px;}
+#p3{margin-top:-800px ;
+margin-left:700px;}
+
+h4{bottom: 0;
+    position: sticky;
+    background-color: antiquewhite;
+    width: 100%;
+}
+
